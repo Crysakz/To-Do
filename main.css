@@ -1,0 +1,15 @@
+
+.done {
+    text-decoration: line-through;
+  }
+#undone {
+  text-decoration: none;
+  all: reset;
+}
+li  {
+  margin: 2%;
+}
+li button {
+  position: absolute;
+  left: 20%;
+}
